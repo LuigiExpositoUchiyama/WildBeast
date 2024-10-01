@@ -1,0 +1,26 @@
+body, h1, ul, li, p {
+    margin: 0px;
+    padding: 0px;
+}  
+
+  img {
+    display: block;
+    max-width: 100%;
+    border-radius: 5px;
+  }
+  
+  ul {
+    list-style: none;
+  }
+
+  li {
+    font-family: Comic sans MS, Verdana;
+    margin-bottom: 30px;
+  }
+  
+  body {
+    -webkit-font-smoothing: antialiased;
+    font-family: Comic sans MS, Verdana;
+    display: grid;
+    grid-template-columns: minmax(160px, 1fr) 3fr 300px; 
+  }

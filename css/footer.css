@@ -1,0 +1,10 @@
+.copy {
+    grid-column: 1 / 4;
+    background: linear-gradient(135deg, #8844ee, #b07dfb);;
+}
+
+.copy p {
+    color: white;
+    padding: 30px;
+    text-align: center;
+}

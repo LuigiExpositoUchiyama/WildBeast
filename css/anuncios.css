@@ -1,0 +1,11 @@
+.anuncios {
+    background: rgba(0, 0, 0, 0.01);
+    display: grid;
+    align-content: flex-start;
+    padding: 30px;
+    gap: 30px;
+}
+
+.anuncios img {
+    box-shadow: 5px 5px 15px 0px rgba(44, 44, 44, 0.15);
+}
